@@ -1,0 +1,71 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif, 'Courier New', Courier, 'Times New Roman', Times, serif;
+}
+/* Navbar Style Start */
+.navbar-logo {
+    background-color: white;
+    padding: 3px;
+    border-radius: 5px;
+}
+.navbar-logo img {
+    width: 65px;
+    height: 65px;
+}
+nav h2 {
+    color: white;
+    font-size: 40px;
+    padding-left: 20px;
+}
+.nav-item a {
+    margin-right: 50px;
+}
+.nav-item a:hover {
+    background-color: #f1f1f13f;
+    border-radius: 5px;
+}
+/* Navbar Style End */
+/* Banner1 Style Start */
+.banner1-img {
+    width: 100%;
+    height: 70vh;
+}
+/* Banner1 Style End */
+/* Banner2 Style Start */
+#banner2 {
+    padding-top: 30px;
+}
+.banner-title {
+    padding: 20px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    color: #f1f1f1;
+    background-color: #000;
+}
+.banner2-content {
+    font-size: 20px;
+    padding-top: 20px;
+}
+.banner2-quote {
+    font-size: 25px;
+    padding: 30px;
+    border-left: 5px solid grey;
+    background-color: #f1f1f1;
+}
+.banner2-img {
+    padding: 20px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.banner2-text {
+    font-size: 25px;
+    font-weight: 400;
+}
+.banner2-text span {
+    font-weight: bold;
+}
+/* Banner2 Style End */
